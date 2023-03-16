@@ -1,5 +1,5 @@
 
-const URL = "http://localhost:3000/students";
+const URL = "https://crud-node-js-basic.vercel.app/students";
 // add students
 function addStudent() {
     let student = {
